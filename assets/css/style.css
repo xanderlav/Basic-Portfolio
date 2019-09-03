@@ -1,0 +1,18 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: blue;
+}
+
+headers{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: teal;
+    text-align: right;
+}
+
+.container{
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
