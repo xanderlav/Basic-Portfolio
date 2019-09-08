@@ -11,8 +11,25 @@ headers{
 }
 
 .container{
-    background-color: white;
+    background-color: teal;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
 }
 
+div{
+    color:teal;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+div.about{
+    width:25%;
+    height: 40px;
+    font-size: 18px;
+    border-style: solid;
+    border-color: teal;
+    float: left;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
