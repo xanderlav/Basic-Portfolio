@@ -25,11 +25,14 @@ div.about{
     width:25%;
     height: 40px;
     font-size: 18px;
+    color: teal;
     border-style: solid;
     border-color: teal;
     float: left;
 }
+
 p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
+    color:gray;
 }
